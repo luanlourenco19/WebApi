@@ -1,0 +1,475 @@
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.exe
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.deps.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.dev.json
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\LocadoraApi.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.ColoredConsole.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.csprojAssemblyReference.cache
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.Manifest.cache
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.xml
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfoInputs.cache
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfo.cs
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.RazorTargetAssemblyInfo.cache
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.CopyComplete
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.dll
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Locadora\src\Backend\SensorReadDataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Locadora\src\Backend\SensorReadDataApi\obj\Debug\netcoreapp3.1\LocadoraApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.exe
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.deps.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.dev.json
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.pdb
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.ColoredConsole.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Locadora\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csprojAssemblyReference.cache
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.Manifest.cache
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.xml
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfoInputs.cache
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfo.cs
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.RazorTargetAssemblyInfo.cache
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.CopyComplete
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.dll
+C:\Locadora\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.exe
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.deps.json
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.json
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.runtimeconfig.dev.json
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\LocadoraApi.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.ColoredConsole.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csprojAssemblyReference.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfo.cs
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.Manifest.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\staticwebassets\LocadoraApi.StaticWebAssets.xml
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\LocadoraApi.styles.css
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.RazorTargetAssemblyInfo.cache
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.CopyComplete
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.dll
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.pdb
+D:\Nova pasta (2)\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.genruntimeconfig.cache
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.AssemblyReference.cache
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfoInputs.cache
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.AssemblyInfo.cs
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.csproj.CoreCompileInputs.cache
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.dll
+D:\Projetos\Nova pasta\LocadoraApi\src\Backend\LocadoraApi\obj\Debug\netcoreapp3.1\LocadoraApi.pdb

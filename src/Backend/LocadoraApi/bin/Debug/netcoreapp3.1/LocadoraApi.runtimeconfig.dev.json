@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Movidesk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Movidesk\\.nuget\\packages"
+    ]
+  }
+}
